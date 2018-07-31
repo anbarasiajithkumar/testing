@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14414" started-at="2018-07-26T06:47:09Z" finished-at="2018-07-26T06:47:23Z">
+  <suite name="Default suite" duration-ms="11902" started-at="2018-07-31T06:39:34Z" finished-at="2018-07-31T06:39:46Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14414" started-at="2018-07-26T06:47:09Z" finished-at="2018-07-26T06:47:23Z">
+    <test name="Default test" duration-ms="11902" started-at="2018-07-31T06:39:34Z" finished-at="2018-07-31T06:39:46Z">
       <class name="zephyr.zephyrc">
-        <test-method status="PASS" signature="zephyrtesting()[pri:0, instance:zephyr.zephyrc@7a92922]" name="zephyrtesting" duration-ms="14378" started-at="2018-07-26T12:17:09Z" finished-at="2018-07-26T12:17:23Z">
+        <test-method status="PASS" signature="zephyrtesting()[pri:0, instance:zephyr.zephyrc@3532ec19]" name="zephyrtesting" duration-ms="11872" started-at="2018-07-31T12:09:34Z" finished-at="2018-07-31T12:09:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zephyrtesting -->
       </class> <!-- zephyr.zephyrc -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
